@@ -1,5 +1,4 @@
-
-
+# Jupyther Notebook um die Verhalten von Webseiten beim Aufruf von Unterseiten zu analysieren
 
 ## Vorbereitung
 
@@ -15,3 +14,5 @@ für playright:
 pip install playwright
 python -m playwright install
 ```
+
+Der Rest steht im Jupyter Script..
