@@ -1,4 +1,4 @@
-# Jupyther Notebook um die Verhalten von Webseiten beim Aufruf von Unterseiten zu analysieren
+# Jupyter Notebook um die Verhalten von Webseiten beim Aufruf von Unterseiten zu analysieren
 
 ## Vorbereitung
 
